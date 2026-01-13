@@ -1,0 +1,4 @@
+python-dotenv   # 환경변수(.env) 로드
+requests        # HTTP 요청 (슬랙 웹훅/REST)
+pandas          # CSV 읽기 + 지표 계산
+openai          # OpenAI 호환 SDK (HF Inference Providers 사용)
